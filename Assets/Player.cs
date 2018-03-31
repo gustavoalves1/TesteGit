@@ -13,5 +13,6 @@ public class Player : MonoBehaviour {
 	void Update () {
 		//Codigo qualquer adicionado
 		//Adicionado pelo github
+		//Update Teste
 	}
 }
